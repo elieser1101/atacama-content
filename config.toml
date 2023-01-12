@@ -1,4 +1,4 @@
 baseURL = 'https://atacamacontent.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Atacama'
 theme = 'up-business'

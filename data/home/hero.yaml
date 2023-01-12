@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Encuentra **tu estilo** sin dañar el planeta"
+  text: "Conseguir ropa de segunda mano nunca habia sido tan facil. Atacama es un servicio de ropa por suscripcion que encuentra por vos mensaualmente un paquete de prendas basadas en tu estilo personal y que puedes cambiar al final de cada mes para mantener tu armario actualizado."
 
   buttonPrimary:
-    label: "How we work"
+    label: "Como Funciona"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Contactanos"
     url: ""
 

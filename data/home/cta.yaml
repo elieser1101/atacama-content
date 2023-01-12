@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Encuentra tu estilo y salva el planeta!"
   image: "images/services-web-development.png"
   button:
-    label: "Let's talk"
-    url: "#"
+    label: "Escribenos tus Dudas"
+    url: "https://wa.me/5491128053716"

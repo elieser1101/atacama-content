@@ -3,37 +3,49 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Que nos hace especiales?"
+    title: "Tu talle no es un problema"
+    text: "Sabemos que encotrar ropa que se ajuste a nuestras necesidades es una tarea compleja, y encontrar ropa que se ajuste a nuestro cuerpo es fundamental para poder expresarnos mejor. Atacama encontrara aquellas prendas que sean para vos."
 
     buttons: 
-      - label: "See live"
+      - label: "Probarlo"
         url: "#"
 
-      - label: "Read more"
+      - label: "Ver Mas"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Que nos hace especiales?"
+    title: "Queremos encontrar tu estilo"
+    text: "El estilo personal es algo complejo de definir y queremos ayudarte a encontrar el tuyo. Atacama te permite ir explorando estilos para que no tengas que vincularte con una prenda que no te representa mas. El estilo evoluciona y Atacama te permite evolucionar tan rapido como tu estilo."
 
     buttons: 
-      - label: "See live"
+      - label: "Probarlo"
         url: "#"
 
-      - label: "Read more"
+      - label: "Ver Mas"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Que nos hace especiales?"
+    title: "La segunda mano no tiene que ser aburrida"
+    text: "El mundo de la ropa de segunda mano es muy lindo, sin embargo encontrar algo para nosotros puede resultar tedioso y abrumador entre tantas ferias y opciones. Atacama busca y encuentra por vos lo que mejor se adapte entre miles de opciones ahorrandote tiempo que puedes usar viendote bien ;)."
 
     buttons: 
-      - label: "See live"
+      - label: "Probarlo"
         url: "#"
 
-      - label: "Read more"
+      - label: "Ver Mas"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Que nos hace especiales?"
+    title: "El planeta quiere que te veas bien"
+    text: "Verse bien y salvar al planeta no son dos cosas excluyentes. Atacama te ayuda a verte bien mientras reduces tu huella de consumo y salvas al mundo."
+
+    buttons: 
+      - label: "Probarlo"
+        url: "#"
+
+      - label: "Ver Mas"
         url: "#"

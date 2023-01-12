@@ -2,25 +2,25 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+  title: "Preguntas Frecuentes"
 
   featured:
     image: "images/testimonials-awards.png"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+    text: "El proceso incia con un cuestionario en el que trataremos de conocerte y entender tu estilo, nos gustaria conocer tus prendas favoritas en tu armario y  luego seleccionaremos las prendas que mas se adopten a ti y a tu armario."
+    client: "como seleccionan mis prendas?"
 
   list:
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "Tener ropa paso de moda. nuestra idea es que no tengas que comprar mas ropa y que puedas experimentar constantemente con el catalogo de Atacama."
+      client: "Las prendas son mias?"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "Es un servicio de suscripción que debes pagar cada periodo. puedes elegir entre periodos de rotacion de 2 semanas, 1 mes o 2 meses."
+      client: "Debo renovar mi suscripción o es un solo pago?"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "Tu estilo, tu exploracion personal, ocasiones de uso, porcentaje de combinabilidad de cada prenda, porcentaje de compatibilidad de las prendas con tu closet"
+      client: "Que toman en cuenta para seleccionar mis prendas?"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "La ropa es revisada, y enviada a la lavanderia antes de ser enviada a cada persona para garantizar la limpieza y calidad de las prendas que te enviamos."
+      client: "Cuales son sus procesos de higiene?"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "Si, tu ropa puede ser utilizada por otras personas y tu puedes recibir dinero por alquilarla a otras personas. en este contactanos si estas interesada en este proceso."
+      client: "Puedo alquilar mi ropa?"

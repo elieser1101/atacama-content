@@ -2,26 +2,47 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Como Funciona"
+  text: "Nuestro proceso esta disenado para reducir la huella de carbono tanto como podamos, ademas el proceso es iterativo, significa que siempre estamos pensado como podemos hacerlo mas eficiente, te invitamos a participar del proceso."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Onboading"
+      text: "Necesitamos conocerte, para eso con un formulario y un pequeno chat podremos empezar tu viaje. Este viaje puede durar tanto como te haga feliz."
       button:
-        label: "Learn more"
+        label: "Ver mas"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Atacaming"
+      text: "Nuestros estilistas revisaran tu informacion y empezaran a buscar las prendas que mejor se adapten a vos. "
       button:
-        label: "Learn more"
+        label: "Ver mas"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Higiene y Calidad"
+      text: "Para nosotros es importante garantizar estandares de higiene para nuestros usuarios, este paso implica limpiar, desinfectar y validar que todo este listo para vos"
       button:
-        label: "Learn more"
+        label: "Ver mas"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Distribucion"
+      text: "Con el objetivo de reducir la huella de carbono, hacemos nuestros viajes mas eficientes y una vez al mes."
+      button:
+        label: "Ver mas"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Se tu mismx"
+      text: "A encontrar tu estilo y ser libre. Usa atacama para que te recomiende que piezas usar y combinar con las prendas en tu guardarropas."
+      button:
+        label: "Ver mas"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Repite"
+      text: "Al finalizar el mes buscaremos las prendas que tenias. Si decides continuar con el proceso te dejaremos un set nuevo de prendas basadas en tus respuestas y en el feedback que nos hayas dado durante el mes."
+      button:
+        label: "Ver mas"
         url: "#"
