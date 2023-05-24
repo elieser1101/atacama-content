@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Encuentra tu estilo y salva el planeta!"
-  image: "images/services-web-development.png"
+  image: "atacama-hero.png"
   button:
     label: "Escribenos tus Dudas"
     url: "https://wa.me/5491128053716"
